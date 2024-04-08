@@ -1,0 +1,83 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "title": "Arrma Infraction V2 6S BLX Brushless 1/7 RTR",
+            "image": "InfractionV2.jpg",
+            "description": "The Arrma Infraction V2 6S BLX Brushless 1/7 RTR Electric 4WD Street Bash Truck is ideal for intermediate-level drivers who are eager to experience street bashing at 80+ MPH speeds (achievable in optimum conditions using a 6S LiPo and the included speed pinion gear). Its Spektrum DX3 radio and Smart brushless power system components provide real-time telemetry that also helps you reach and maintain maximum performance.",
+            "category": "cars",
+            "price": "649.99"
+        },
+        {
+            "id": 2,
+            "title": "Arrma Kraton 6S EXB RTR 1/8 4WD Brushless Monster Truck (Black)",
+            "image": "KratonEXB.jpg",
+            "description": "Get ready for the ultimate RC bashing experience with the 1/8 Kraton EXB 6S, an electrifying monster truck that has been taken to new heights with the addition of EXB options. This powerhouse is not just a mere RC vehicle; it's a high-speed, fearless beast designed for extreme thrills. The aggressive brushless power, combined with EXB upgrades, makes the Kraton EXB 6S is faster, more durable, and an unbeatable value for those who crave the adrenaline rush of extreme bashing",
+            "category": "cars",
+            "price": "699.99"
+        },
+        {
+            "id": 3,
+            "title": "GooSky S1 RTF Micro Electric Helicopter (Pink)",
+            "image": "GooskyS1.jpg",
+            "description": "The S1 sets a new standard for entry-level stunt helicopters, surpassing expectations in its class. Equipped with dual direct-drive brushless motors, it offers exceptional power, complemented by efficient and silent propellers. This lightweight and agile heli boasts high-performance aerobatic capabilities, featuring an aluminum swash plate and rotor head, carbon fiber frame, connecting rod-free design for adjustment free and accuracy convenience, original cage body design for elevated strength, quick-release battery system, and aluminum tail rod. All this combines to make one of the best RTF helicopters on the market.",
+            "category": "helicopters",
+            "price": "239.00"
+        },
+        {
+            "id": 4,
+            "title": "Align T-Rex TN70 Top Combo Nitro Helicopter Kit",
+            "image": "Trex70N.jpg",
+            "description": "This is the Allign T-Rex TN70 Top Combo Nitro Helicopter Kit. This high end nitro helicopter kit is loaded with updated features that elevate this kit to a higher level of performance and reliability. Equipped with CNC machined metal reinforcement plate and brace for added protection, heat dissipation and improved reinforcement to the mainframe and updated tail belt drive pulley design that effectively reduces vibration and tooth sweeping! In addition, an updated swashplate with an improved mounting rod design that provides supreme reliability and stability while preventing the detachment of the rods during extreme maneuvers.",
+            "category": "helicopters",
+            "price": "1799.99"
+        },
+        {
+            "id": 5,
+            "title": "Traxxas X-Maxx 8S 4WD Brushless RTR Monster Truck (Solar Flare) ",
+            "image": "X-max8S.jpg",
+            "description": "The Traxxas X-Maxx 8S 4WD Brushless RTR Monster Truck brings the same unrelenting 4X4 power, mammoth size and award-winning innovation to the game that make X-Maxx the ultimate monster truck. When you add 30+ volts of extreme 8s power, X-Maxx 8S defies physics, unleashing jaw-dropping acceleration and 50+mph speeds. Engineered to conquer the most extreme terrain and take brutal real-world punishment in stride, X-Maxx is the definition of Traxxas Tough™.",
+            "category": "cars",
+            "price": "999.95"
+        },
+        {
+            "id": 6,
+            "title": "DJI Mavic 3 Pro Drone Fly More Combo",
+            "image": "mavic3pro.jpg",
+            "description": "This is the Mavic 3 Pro from DJI. The Mavic 3 Pro boasts an impressive flagship tri-camera system, setting a new standard for aerial photography. Equipped with a 4/3 CMOS Hasselblad camera, a 70mm tele camera, and a 166mm tele camera, this drone offers unparalleled versatility in capturing stunning visuals across various scenarios. Whether it's wide-angle landscape shots or detailed close-ups, the Mavic 3 Pro delivers exceptional 'image' quality with its high-resolution sensors and precise optics. With the Hasselblad camera capable of shooting in 5.1K resolution at 50fps and 4K at 120fps, users can achieve cinematic footage with vibrant colors and remarkable clarity.",
+            "category": "quads",
+            "price": "3889.00"
+        },
+        {
+            "id": 7,
+            "title": "RadioMaster TX16S MKII MAX AG01 Gimbal 4-In-1 Red",
+            "image": "radiomaster16s.webp",
+            "description": "RadioMaster set out to create the very best radio in its class without compromises. The TX16s has the best of everything we could fit into the radio today along with expandability and upgradeability for the future such as our Touch panel ready motherboard that will support future touch compatible version of OpenTX firmware and UART expansion slots. Our super smooth precision HALL gimbals with CNC facias offer refined looks and performance. Built-in USB-C charger, class-leading ergonomics, internal Multi-Module as standard, improved key layout and menu navigation, external SD port, improved sliders and more!",
+            "category": "radios",
+            "price": "379.99"
+        },
+        {
+            "id": 8,
+            "title": "Spektrum NX10 10-Channel Transmitter Only",
+            "image": "spektrumNX10.jpg",
+            "description": "Spektrum is proud to introduce the latest leap forward in Spektrum RC technology — the NX Series of aircraft transmitters. The NX6, NX8 and NX10 equipped not only with the greatest Spektrum RC flight innovations up to now, but also, with new features and advances that will take you into the next generation of radio control.",
+            "category": "radios",
+            "price": "549.99"
+        },
+        {
+            "id": 9,
+            "title": "BetaFPV Pavo Pico Brushless Whoop Quadcopter-PNP TBS (For DJI O3 HD Digital VTX)",
+            "image": "PAVOPICO.webp",
+            "description": "Thanks to all the enthusiastic pilots who participated in the BETA TEST before, we've now released the smallest 2S Sub100g DJI O3 Cinewhoop! This ultra-light cinewhoop with a small wheelbase is not only equipped with 45mm propellers but the latest F4 1S 12A AIO Brushless FC V3 which greatly heightens the flying experience. Due to Its split design HD VTX mounting bracket, it supports quick installation of mainstream HD digital VTX modules and a rubber damper vibration-damping design with GyroFlow stabilization software ensures stable and smooth HD 'image's. Its design is well-suited for cruising indoors and outdoors alike.",
+            "category": "quads",
+            "price": "149.99"
+        },
+        {
+            "id": 10,
+            "title": "GEPRC CineLog 35 3.5' CineWhoop Drone HD w/ Caddx Nebula Pro - 3.5'",
+            "image": "cinelog35.webp",
+            "description": "The GEPRC Team is excited to release the GEPRC CineLog 35 HD CineWhoop drone! The CineLog35 has improved upon the basis of the CineLog30. Featuring an integrated protection guard design, the overall structure is firmer and durable. Equipped with the latest FC with higher calculation speed and high efficiency... the 4S version uses GEP-F722-35A AIO and the 6S version uses GEP-F722-45A AIO. The 5 UART Ports bring enhanced performance. The CineLog35 is equipped with a VISTA HD VTX and the Nebula Pro camera, and the picture quality is extremely clear and clean. Upgraded power system,2004 motor with D90-3 propellers provide stronger power output. Includes a 3D Print mount to install the 9 & 10. with a base that can carry Insta360 GO2 / GEP Naked Hero 8 or Caddx Peanut camera mount. Note: Action Camera not included. This is the HD version with Caddx Nebula Pro camera. VIDEO: This Cinematic FPV Drone Can ALMOST Do It All! (Cinelog 35 Review) Features Camera mount base can carry Insta360 Go2 camera/Naked Hero 8/Caddx Peanut camera mounts Developed by GEPRC specifically for mounting complete HD cameras. Equipped with VISTA HD VTX and the Nebula Pro camera. Upgraded 3.5-inch integrated protection guard Independent receiver cabin - binds quickly 3D Print mount for 9 & 10 Durable high-strength structural design Low vibration and noise reduction 2004 motor with D90-3 propeller Improved damping rings ACTION CAMERA MOUNT CAPABILITY Features a 3D Print mount to install the 9 & 10. Camera mount base can carry Insta360 Go2 camera/Naked Hero 8/Caddx Peanut camera INTEGRATED PROTECTION GUARD Strengthens fuselage and guarantees flight safety. CAMERA DAMP","category": "quads",
+            "price": "480.00"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+.item {
+    width: 30%;
+    margin-bottom: 50px;
+    background-color: #FFC373;
+    border-radius: 10px;
+    overflow: hidden;
+    position: relative;
+    padding-bottom: 25px;
+
+    img {
+        width: 100%;
+        border-radius: 10px 10px 0 0;
+        background-color: #FFC373;
+        mix-blend-mode: multiply;
+        transition: transform 1000ms ease;
+        cursor: pointer;
+
+        &:hover {
+            transform: scale(1.05);
+        }
+    }
+
+    .addToCart {
+        position: absolute;
+        width: 150px;
+        height: 35px;
+        text-align: center;
+        line-height: 35px;
+        border-radius: 15px;
+        right: 20px;
+        bottom: 20px;
+        background-color: #333086;
+        cursor: pointer;
+        font-weight: 600;
+        transition: transform 500ms;
+
+        &:hover {
+            transform: scale(1.02) translateY(-2px);
+        }
+    }
+}

@@ -1,0 +1,21 @@
+main {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content:space-around;
+
+    h2, p {
+        margin: 10px 20px;
+        color: #0C0874;
+    }
+
+    p{
+        font-size: 18px;
+    }
+
+    b {
+        margin: 10px 20px;
+        font-size: 20px;
+        color: #00B25C;
+    }
+}

@@ -1,0 +1,15 @@
+.categories {
+
+    div{
+        display: inline-block;  
+        margin: 20px 10px;
+        cursor: pointer;
+        transition: all 500ms ease;
+        font-size: 25px;
+
+        &:hover{
+            color: #A65F00;
+            transform: scale(1.2);
+        }
+    }
+}
